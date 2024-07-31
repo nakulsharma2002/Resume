@@ -1,0 +1,225 @@
+#root{
+  height: 2688px;
+
+
+}
+#navbar{
+  width:1520px;
+  background-color: #3b3b3b !important;
+  position: sticky;
+  top: 1px;
+}
+
+
+
+.Container{
+  background-color: #3b3b3b !important;
+  width: 1520px;
+  height: 400px;
+  display: flex;
+
+}
+.container-left{
+  background-color: #3b3b3b !important;
+  width: 653px;
+  height: 400px;
+  padding-top: 146px;
+  padding-left: 245px;
+
+}
+.container-left h4{
+  color:white
+}
+.container-left h1{
+  color: yellow;
+}
+.container-Middle{
+  background-color: #3b3b3b !important;
+  width: 827px;
+  height: 400px;
+  padding-left: 79px;
+}
+.container-right{
+  background-color: #3b3b3b !important;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  padding-top: 255px;
+}
+
+.buttonshow{
+  display: flex;
+  margin-top: 18px;
+  justify-content: space-evenly;
+  width: 251px;
+
+}
+.nakul-image{
+  height: 559px;
+  width: 538px;
+  filter: drop-shadow(0px 0px 7px white);
+}
+
+
+
+
+.AboutSection{
+  height: 415px;
+  width: 1519px;
+  padding-top: 187px;
+  background-color: #3b3b3b !important;
+}
+.About-heading{
+  height: 100px;
+  width: 1426px;
+  padding-left: 45px;
+  padding-top: 34px;
+  text-align: center;
+}
+.About-heading h1{
+  color: yellow;
+ 
+}
+.About-para{
+  margin: auto;
+    max-width: 1319px;
+    height: 234px;
+
+}
+.About-para p{
+  color:white;
+  font-size: 19px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#myskill{
+  height: 600px;
+  width: 1519px;
+  flex-wrap: wrap;
+  background-color: #3b3b3b !important;
+  display: flex;
+}
+.myskill-name{
+  text-align: center;
+  width:1500px;
+  height:137px;
+
+}
+.myskill-name h1{
+  color:yellow;
+}
+.skills{
+  height: 500px;
+  width: 1500px;
+  display: flex;
+  padding-left: 18px;
+
+}
+#card1{
+  width: 454px;
+  margin: 10px;
+  height: 285px;
+  background-color: #585555;
+}
+#card1:hover{
+  cursor: pointer;
+  background-color: #b48d35;
+}
+.imagesfit{
+  padding-top: 34px;
+  padding-left: 105px;
+
+}
+.skill-image{
+  height:104px;
+  width:136px !important;
+}
+#card-text{
+  text-align: center;
+}
+#card-text h5{
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+.Projects{
+  width: 482px;
+  margin: 10px;
+  height: 288px;
+  background-color: #585555;
+}
+.showimage{
+  padding-top: 34px;
+  padding-left: 92px;
+}
+#projects-text{
+  text-align: center;
+}
+.Projects-name{
+  text-align: center;
+  width:1500px;
+  height:137px;
+
+}
+.Projects-name h1{
+  color:yellow;
+}
+
+#projects-card{
+  margin: 20px;
+  height: 445px;
+  width: 523px;
+
+}
+#projects-image{
+  width: 465px;
+  height: 444px;
+}
+
+.overlay{
+  margin:20px;
+  text-align: center;
+}
+/* .overlay:hover{
+  opacity: 0.5;
+  cursor: pointer;
+} */
+.cardtitle{
+  color:white;
+  padding-top:34px;
+  visibility: hidden;
+
+}
+#cardtext{
+  color:white;
+  visibility: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
